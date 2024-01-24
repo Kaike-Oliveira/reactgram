@@ -21,6 +21,7 @@ module.exports = {
     'react/jsx-filename-extension': 'off',
     'import/extensions': 'off',
     'no-unused-vars': ['off', { varsIgnorePattern: '^React$' }],
+    'linebreak-style': 'off',
   },
   settings: {
     react: {
